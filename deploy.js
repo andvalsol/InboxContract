@@ -7,7 +7,7 @@ const {interface, bytecode} = require('./compile');
 
 const provider = new HDWalletProvider(
     'use-a-proper-mnemotic',
-    'https://rinkeby.infura.io/v3/566789e052894ffc934f58879f4002e2'
+    'infura link'
 );
 
 // Instance completely enabled for the Rinkeby network
